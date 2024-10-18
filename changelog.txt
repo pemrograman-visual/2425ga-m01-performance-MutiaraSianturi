@@ -1,2 +1,3 @@
 mencoba mengumpulkan UTS
 Telah mengubah program autograding yang telah di berikan oleh bapak
+telah memperbaiki program
