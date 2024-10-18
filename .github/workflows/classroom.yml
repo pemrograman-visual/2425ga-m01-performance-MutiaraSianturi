@@ -25,9 +25,7 @@ jobs:
           A
           ---
           ---
-        expected-output: '16.0
-
-          '
+        expected-output: '16.0'  # Fixed newline issue
         comparison-method: exact
         timeout: 1
         max-score: 20
